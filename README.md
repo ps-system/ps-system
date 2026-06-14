@@ -38,7 +38,6 @@ Currently I'm working with:
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge\&logoColor=white)
 ![Bukkit](https://img.shields.io/badge/Bukkit_API-2E7D32?style=for-the-badge)
-![Spigot](https://img.shields.io/badge/Spigot_API-ED8106?style=for-the-badge)
 
 ### Build Tools
 
