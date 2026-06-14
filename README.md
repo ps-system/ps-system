@@ -108,7 +108,7 @@ Includes configuration handling, command processing, database utilities, caching
 ## 📫 Contact
 
 * Website: [ps-it.pl](https://ps-it.pl)
-* GitHub: [Piotrus1337](https://github.com/Piotrus1337)
+* GitHub: [PS-System](https://github.com/ps-system)
 
 ---
 
